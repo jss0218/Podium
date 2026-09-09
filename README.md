@@ -1,6 +1,6 @@
 # Podium — AI Public Speaking Coach
 
-> Built for LA Hacks 2026 · - Light the Way Presented by Aramco
+> **[Live demo](https://podium-ten.vercel.app)** · Built for LA Hacks 2026 · - Light the Way Presented by Aramco
 
 Podium puts you in front of a live, reactive virtual audience and coaches you in real time. It doesn't just transcribe what you say — it watches how you say it, tracks your body language, finds the weakest point in your argument, and challenges you with a hard question before your session ends. When you're done, you get a full breakdown and a coach you can keep talking to through ASI:One.
 
